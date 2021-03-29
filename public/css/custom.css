@@ -1,0 +1,7 @@
+.mh-50 img {
+  max-height: 30px;
+  transition: 900ms all;
+  transform: scale(1);
+  filter: grayscale(1);
+}
+
