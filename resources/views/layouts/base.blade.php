@@ -16,6 +16,7 @@
   <!-- Custom styles for this template -->
   <link href="{{asset('css/business-frontpage.css')}}" rel="stylesheet">
   <link href="{{asset('css/bootstrap-icons.css')}}" rel="stylesheet">
+  <link href="{{asset('css/custom.css')}}" rel="stylesheet">
   <link rel="stylesheet" href="http://use.fontawesome.com/releases/v5.15.1/css/all.css">
   @stack('styles')
 
@@ -100,9 +101,48 @@
   <!-- /.container -->
 
   <!-- Footer -->
-  <footer class="py-5 bg-dark">
+  <footer class="py-5 bg-dark text-light">
     <div class="container">
       <p class="m-0 text-center text-white">Copyright &copy; Your Website 2020</p>
+
+      <div class="copygight text-center">
+        <div itemscope="" itemtype="https://schema.org/Organization">
+            <a href="https://ucp.by" target="_blank">Государственное учреждение образования "Универсистет гражданской защиты министерства по чрезвычайным ситуациям Республики Беларусь"</a>
+
+            <div itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
+                Юридический адрес:
+                <span itemprop="postalCode">220118</span>,
+                <span itemprop="addressLocality">Республика Беларусь, г.Минск</span>,
+                <span itemprop="streetAddress">ул.Машиностроителей, 25</span>
+            </div>
+                телефон: <span itemprop="telephone"><a href="tel:+375(17)340-69-55">+375 (17) 340-69-55</a></span>,
+                факс: <span itemprop="faxNumber"><a href="tel:+375(17)340-35-58">+375 (17) 340-35-58</a></span>,
+                e-mail: <span itemprop="email"><a href="mailto:fpipk@ucp.by">fpipk@ucp.by</a></span>
+
+            <div>
+                <p>режим работы: будние дни c 09<sup>00</sup> до 18<sup>00</sup>; суббота-воскресенье — выходной<br>
+                Лицензия от 30.09.2016 № 02100/559 выдана Министерством образования Республики Беларусь<br>
+                УНП 192695026<br>
+
+                </p>
+            </div>
+
+
+        </div>
+    </div>
+
+      <div class="paysystems">
+        <div class="row d-flex">
+            <div class="row m-auto align-items-center justify-content-center">
+                <div class="p-2 m-2 mh-50 bg-white"><img class="" src="/images/paysystems/2.png"></div>
+                <div class="p-2 m-2 mh-50 bg-white"><img class="" src="/images/paysystems/1.png"></div>
+                <div class="p-2 m-2 mh-50 bg-white"><img class="" src="/images/paysystems/3.png"></div>
+                <div class="p-2 m-2 mh-50 bg-white"><img class="" src="/images/paysystems/4.png"></div>
+                <div class="p-2 m-2 mh-50 bg-white"><img class="" src="/images/paysystems/5.png"></div>
+                <div class="p-2 m-2 mh-50 bg-white"><img class="" src="/images/paysystems/6.png"></div>
+            </div>
+        </div>
+    </div>
     </div>
     <!-- /.container -->
   </footer>
