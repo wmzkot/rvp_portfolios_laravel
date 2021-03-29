@@ -10,3 +10,25 @@
     transform: scale(1);
     filter: grayscale(1);
 }
+
+.mh-50 img:hover {
+    -webkit-transition: 900ms all;
+    -o-transition: 900ms all;
+    transition: 900ms all;
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    transform: scale(1.05);
+    filter: none;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    color: #fff;
+    text-decoration: underline;
+}

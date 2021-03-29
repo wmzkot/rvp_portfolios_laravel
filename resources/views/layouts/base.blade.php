@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Business Frontpage - Start Bootstrap Template</title>
+  <title>Коворкинг Изи</title>
 
   <!-- Bootstrap core CSS -->
   <link href="{{asset('vendor/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
@@ -27,7 +27,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#">Start Bootstrap {{$_SERVER['REQUEST_URI']}}</a>
+      <a class="navbar-brand" href="#">Коворкинг Изи {{$_SERVER['REQUEST_URI']}}</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -39,10 +39,10 @@
             </a>
           </li> -->
           <li class="nav-item">
-            <a class="nav-link" href="{{asset('about')}}">Обо мне</a>
+            <a class="nav-link" href="{{asset('about')}}">О нас</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{asset('portfolio')}}">Портфолио</a>
+            <a class="nav-link" href="{{asset('portfolio')}}">Помещения/офисы</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{asset('contact')}}">Контакты</a>
@@ -50,11 +50,11 @@
 
           @guest
               <li class="nav-item">
-                  <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
+                  <a class="nav-link" href="{{ route('login') }}">{{ __('Войти') }}</a>
               </li>
               @if (Route::has('register'))
                   <li class="nav-item">
-                      <a class="nav-link" href="{{ route('register') }}">{{ __('Register') }}</a>
+                      <a class="nav-link" href="{{ route('register') }}">{{ __('Зарегистрироваться') }}</a>
                   </li>
               @endif
           @else
@@ -93,8 +93,25 @@
     </div>
   </header>
 @ENDIF
+
   <!-- Page Content -->
-  @yield('content')
+  <div class="container">
+
+    <div class="row">
+      <div class="col">
+        @yield('content')
+      </div>
+    </div>
+  </div>
+  <!-- /.container -->
+
+
+
+
+
+
+
+
   <div id="contacts"></div>
 
 
@@ -103,26 +120,25 @@
   <!-- Footer -->
   <footer class="py-5 bg-dark text-light">
     <div class="container">
-      <p class="m-0 text-center text-white">Copyright &copy; Your Website 2020</p>
 
       <div class="copygight text-center">
         <div itemscope="" itemtype="https://schema.org/Organization">
-            <a href="https://ucp.by" target="_blank">Государственное учреждение образования "Универсистет гражданской защиты министерства по чрезвычайным ситуациям Республики Беларусь"</a>
+            Copyright &copy; <a href="https://co-work.tk" target="_blank">Открытое акционерное общество "Коворкинг Изи"</a>
 
             <div itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
                 Юридический адрес:
                 <span itemprop="postalCode">220118</span>,
                 <span itemprop="addressLocality">Республика Беларусь, г.Минск</span>,
-                <span itemprop="streetAddress">ул.Машиностроителей, 25</span>
+                <span itemprop="streetAddress">ул.Машиностроителей, 26</span>
             </div>
-                телефон: <span itemprop="telephone"><a href="tel:+375(17)340-69-55">+375 (17) 340-69-55</a></span>,
-                факс: <span itemprop="faxNumber"><a href="tel:+375(17)340-35-58">+375 (17) 340-35-58</a></span>,
-                e-mail: <span itemprop="email"><a href="mailto:fpipk@ucp.by">fpipk@ucp.by</a></span>
+                телефон: <span itemprop="telephone"><a href="tel:+375 (17) 451-70-66">+375 (17) 451-70-66</a></span>,
+                факс: <span itemprop="faxNumber"><a href="tel:+375 (17) 451-46-69">+375 (17) 451-46-69</a></span>,
+                e-mail: <span itemprop="email"><a href="mailto:info@co-work.tk">info@co-work.tk</a></span>
 
             <div>
                 <p>режим работы: будние дни c 09<sup>00</sup> до 18<sup>00</sup>; суббота-воскресенье — выходной<br>
-                Лицензия от 30.09.2016 № 02100/559 выдана Министерством образования Республики Беларусь<br>
-                УНП 192695026<br>
+                Лицензия от 30.09.2016 № 12211/660 выдана Министерством по налогам и сборам Республики Беларусь<br>
+                УНП 192696137<br>
 
                 </p>
             </div>

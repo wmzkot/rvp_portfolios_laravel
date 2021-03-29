@@ -5,3 +5,19 @@
   filter: grayscale(1);
 }
 
+.mh-50 img:hover {
+  transition: 900ms all;
+  transform: scale(1.05);
+  filter: none;
+}
+
+footer a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+footer a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
