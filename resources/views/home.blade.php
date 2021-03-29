@@ -19,7 +19,7 @@
         <div class="col-md-12">
             <div class="card">
                 <!-- <div class="card-header">{{ __('Dashboard') }}</div> -->
-                <div class="card-header">Портфолио</div>
+                <div class="card-header">Помещения/офисы</div>
                 <div class="card-body">
                     <!-- @if (session('status'))
                         <div class="alert alert-success" role="alert">
@@ -54,7 +54,7 @@
                         </div>
                       </div>
                       <div class="form-group">
-                        <label for="picture1">Изображение: </label>
+                        <label for="picture1">Фото: </label>
                         <input type="file" name='picture1' class="form-control-file" id="picture1">
                       </div>
 
@@ -67,10 +67,10 @@
                     <table class="table table-bordered table-striped" width="100%">
                         <thead>
                             <tr>
-                                <th>Picture</th>
-                                <th>Name</th>
-                                <th>Body</th>
-                                <th>Actions</th>
+                                <th>Фото</th>
+                                <th>Название</th>
+                                <th>Описание</th>
+                                <th>Действия</th>
                             </tr>
                         </thead>
                         <tbody>

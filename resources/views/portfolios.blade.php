@@ -9,7 +9,7 @@
 @endpush
 
 @section('content')
-	<h2>Наши работы:</h2>
+	<h2 class='mt-4'>Наши работы:</h2>
     <br>
 
 	    <!-- /.row -->

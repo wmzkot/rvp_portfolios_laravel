@@ -123,7 +123,7 @@
 
       <div class="copygight text-center">
         <div itemscope="" itemtype="https://schema.org/Organization">
-            Copyright &copy; <a href="https://co-work.tk" target="_blank">Открытое акционерное общество "Коворкинг Изи"</a>
+            &copy; <a href="https://co-work.tk" target="_blank">Открытое акционерное общество "Коворкинг Изи"</a>
 
             <div itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
                 Юридический адрес:
