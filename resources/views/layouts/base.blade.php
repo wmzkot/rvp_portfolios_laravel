@@ -82,16 +82,134 @@
   </nav>
 @IF($_SERVER['REQUEST_URI'] == '/')
   <!-- Header -->
-  <header class="bg-primary py-5 mb-5">
+  <header class="py-5 mb-5 main-header">
     <div class="container h-100">
       <div class="row h-100 align-items-center">
         <div class="col-lg-12">
-          <h1 class="display-4 text-white mt-5 mb-2">Business Name or Tagline</h1>
-          <p class="lead mb-5 text-white-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam.</p>
+          <h1 class="display-4 text-white mt-5 mb-2">Коворкинг в центре Минска</h1>
+          <p class="lead mb-5 text-white-50">Число людей, выбравших свободный график работы, растет во всем мире. Провести лекцию, семинар, тренинг, организовать полноценное рабочее место дома — трудно по многим причинам. Ведь уютная обстановка жилого помещения с детства ассоциируется у нас с отдыхом и комфортом. А разовая аренда помещений для тренинга без специализированной аппаратуры – неудобна и невыгодна, так как минимальный срок аренды начинается от трех месяцев. У нас вы можете взять абонемент на ежемесячное безлимитное пользование коворкингом и всеми удобствами, а также снять конференц-зал или переговорки.</p>
         </div>
       </div>
     </div>
   </header>
+
+  <div class="container">
+          <div class="row">
+            <div class="col-4">
+
+              <div class="cmsmasters_text">
+                <h3 style="text-align: center;">Что мы можем предложить в новом коворкинге HUB#1?</h3>
+              </div>
+
+              <div class="cmsmasters_text">
+                <ul>
+                  <li>круглосуточный доступ в коворкин</li>
+                  <li>места в коворинге фиксированные, т.е. закрепляются за каждым человеком</li>
+                  <li>гостевые визиты</li>
+                  <li>кухня с кофемашиной, чаем, какао, печеньем, холодильником, духовкой и посудомойкой</li>
+                  <li>принтер</li>
+                  <li>wi-fi, оптоволокно</li>
+                  <li>аренда юр. адреса</li>
+                  <li>4-метровые окна</li>
+                  <li>6-метровые потолки</li>
+                  <li>кухня</li>
+                  <li>переговорные комнаты (3 помещения разного размера)</li>
+                  <li>закрытая парковка</li>
+                </ul>
+              </div>
+
+            </div>
+            <div class="col-4">
+
+              <div class="cmsmasters_text">
+                <h3 style="text-align: center;">Коворкинг-центр для бизнеса и неформального общения</h3>
+              </div>
+
+              <div class="cmsmasters_text">
+                <p>Требуется провести лекцию для сотрудников или снять конференц-зал – приходите в новый коворкинг центр в центре города. Бизнес-клуб HUB#1 рад всем, кто нуждается в красивом помещении для деловых встреч. К услугам клиентов:</p>
+                <ul>
+                  <li>небольшие уютные помещения для переговоров и совещаний,</li>
+                  <li>компактные тренинг-комнаты, рассчитанные на 20-30 человек;</li>
+                  <li>отдельные коворкинг места;</li>
+                </ul>
+                <p>Посетителей ждет у нас современный дизайн, удобная мебель, современная аппаратура. У нас вы сможете взять в аренду место на сутки или на месяц, организовать<strong> п</strong>роведение мероприятия в Минске на достойном уровне. Предусмотрена аренда рабочего места для самостоятельной работы и гостевые визиты, а также аренда переговорных комнат, включенная в стоимость месячного абонемента (4 часа).</p>
+                <ul>
+                  <li>Самый центр города: кинотеатры, бары, кафе, рестораны и торговые центры в 2 остановках</li>
+                  <li>Готовые планировочные решения для рассадки команд</li>
+                  <li>Есть возможность гибкого размещения части сотрудников в коворкинге</li>
+                  <li>Возможность использования за доп. плату переговорной комнаты в коворкинге</li>
+                  <li>Закрытая парковка с возможностью помесячной аренды машиноместа</li>
+                  <li>Крытая велопарковка</li>
+                  <li>Зона отдыха на улице и внутри здания</li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="col-4">
+
+              <div class="cmsmasters_text">
+                <h3 style="text-align: center;">Какие варианты есть для размещения в коворкинге?</h3>
+              </div>
+
+              <div class="cmsmasters_text">
+                <p><strong>Рабочее место на месяц в коворкинг-пространстве HUB#1 на Пинской:</strong></p>
+                <ul>
+                  <li>160 евро по курсу НБРБ в бел.руб. на день оплаты без юр.адреса (стоимость указана с учетом НДС, возможна оплата по безналичному расчету)</li>
+                  <li>180 евро по курсу НБРБ в бел. руб. на день оплаты с юр.адресом&nbsp;(стоимость указана с учетом НДС, возможна оплата по безналичному расчету)</li>
+                  <li>место закреплено за вами</li>
+                  <li>1 бесплатный гостевой визит на 1 сутки в течение месяца</li>
+                  <li>4 часа аренды переговорных комнат в течение месяца</li>
+                </ul>
+                <p><strong>Рабочее место на сутки в коворкинге HUB#1 на Пинской:</strong></p>
+                <ul>
+                  <li>10 евро по курсу НБРБ в бел. руб. на день оплаты</li>
+                </ul>
+              </div>
+            </div>
+
+          </div>
+  </div>
+
+  <div class="container">
+    <ul class="thumbs">
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-001-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-002-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-003-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-004-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-005-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-006-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-007-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-008-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-009-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-010-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-011-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-012-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-013-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-014-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-015-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-016-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-017-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-018-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-019-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-020-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-021-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-022-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-023-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-024-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-025-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-026-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-027-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-028-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-029-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-030-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-036-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-037-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-038-860x480.jpg" alt="" width="100" height="60"></li>
+      </ul>
+  </div>
+
+
+
 @ENDIF
 
   <!-- Page Content -->
@@ -112,7 +230,7 @@
 
 
 
-  <div id="contacts"></div>
+  <div id="contacts" class='mb-4'></div>
 
 
   <!-- /.container -->
