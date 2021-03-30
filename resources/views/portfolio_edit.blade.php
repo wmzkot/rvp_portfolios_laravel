@@ -6,7 +6,7 @@
         <div class="col-md-12">
             <div class="card">
                 <!-- <div class="card-header">{{ __('Dashboard') }}</div> -->
-                <div class="card-header">Редактирование портфолио</div>
+                <div class="card-header">Редактирование помещения</div>
                 <div class="card-body">
                     <!-- @if (session('status'))
                         <div class="alert alert-success" role="alert">
@@ -70,7 +70,7 @@
 
                       <div class="form-group row">
                         <div class="col-sm-10">
-                          <button type="submit" class="btn btn-primary">Отправить</button>
+                          <button type="submit" class="btn btn-primary">Сохранить</button>
                         </div>
                       </div>
                     </form>

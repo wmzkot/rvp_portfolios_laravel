@@ -4,7 +4,9 @@ $(function (){
       if ($('.modal-window').length === 0) {
         $('<div>').attr('id', 'overlay').prependTo('body');
         $('.container').addClass('blured');
-        return $('<div>').addClass('modal-window').prependTo('body');
+        return $('<div>').addClass('modal-window').prependTo('body').css({
+          "min-height" : "20vh"
+        });
       } else {
         return $('.modal-window');
       }
