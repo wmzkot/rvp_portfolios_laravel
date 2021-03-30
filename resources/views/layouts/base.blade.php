@@ -241,7 +241,7 @@
 
       <div class="copygight text-center">
         <div itemscope="" itemtype="https://schema.org/Organization">
-            &copy; <a href="https://co-work.tk" target="_blank">Открытое акционерное общество "Коворкинг Изи"</a>
+            &copy; <a href="https://cwork.ga" target="_blank">Открытое акционерное общество "Коворкинг Изи"</a>
 
             <div itemprop="address" itemscope="" itemtype="https://schema.org/PostalAddress">
                 Юридический адрес:
@@ -251,7 +251,7 @@
             </div>
                 телефон: <span itemprop="telephone"><a href="tel:+375 (17) 451-70-66">+375 (17) 451-70-66</a></span>,
                 факс: <span itemprop="faxNumber"><a href="tel:+375 (17) 451-46-69">+375 (17) 451-46-69</a></span>,
-                e-mail: <span itemprop="email"><a href="mailto:info@co-work.tk">info@co-work.tk</a></span>
+                e-mail: <span itemprop="email"><a href="mailto:info@cwork.ga">info@cwork.ga</a></span>
 
             <div>
                 <p>режим работы: будние дни c 09<sup>00</sup> до 18<sup>00</sup>; суббота-воскресенье — выходной<br>
