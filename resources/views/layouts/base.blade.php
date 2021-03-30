@@ -198,44 +198,6 @@
           </div>
   </div>
 
-  <div class="container">
-    <ul class="thumbs">
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-001-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-002-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-003-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-004-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-005-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-006-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-007-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-008-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-009-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-010-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-011-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-012-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-013-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-014-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-015-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-016-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-017-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-018-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-019-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-020-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-021-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-022-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-023-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-024-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-025-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-026-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-027-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-028-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-029-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-030-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-036-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-037-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-038-860x480.jpg" alt="" width="100" height="60"></li>
-      </ul>
-  </div>
-
   <div class="container slides">
     <div id="cmsmasters_hover_slider_6063845141a97" class="cmsmasters_hover_slider">
     
