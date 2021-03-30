@@ -1,22 +1,27 @@
 import React from 'react';
 
 const ContactsBody = () => {
-    return (
-        <div id="address">
-            <address>
-                <strong>Start Bootstrap</strong>
-                <br/>3481 Melrose Place
-                <br/>Beverly Hills, CA 90210
-                <br/>
-            </address>
-            <address>
-                <abbr title="Phone">P:</abbr>
-                (123) 456-7890
-                <br/>
-                <abbr title="Email">E:</abbr>
-                <a href="mailto:#">name@example.com</a>
-            </address>
-        </div>
+    return ( <
+        div id = "address" >
+        <
+        address >
+        <
+        strong > Коворкинг Изи < /strong> <
+        br / > ул.Машиностроителей, 26 <
+        br / > Минск, 220118 <
+        br / >
+        <
+        /address> <
+        address >
+        <
+        abbr title = "телефон" > телефон: < /abbr> +
+        375(17) 451 - 46 - 69 <
+        br / >
+        <
+        abbr title = "Email" > e - mail: < /abbr> <
+        a href = "mailto:info@cwork.ga" > info @cwork.ga < /a> < /
+        address > <
+        /div>
     );
 };
 

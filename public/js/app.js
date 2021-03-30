@@ -32222,9 +32222,9 @@ var Contacts = function Contacts() {
     className: "card"
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "card-header"
-  }, "Contact Us"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, " \u0421\u0432\u044F\u0437\u0430\u0442\u044C\u0441\u044F \u0441 \u043D\u0430\u043C\u0438 "), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "card-body"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_ContactsBody__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_ContactsMail__WEBPACK_IMPORTED_MODULE_3__["default"], null))))));
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_ContactsBody__WEBPACK_IMPORTED_MODULE_2__["default"], null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_ContactsMail__WEBPACK_IMPORTED_MODULE_3__["default"], null))), " "), " "), " ");
 };
 
 if (document.getElementById('contacts')) {
@@ -32251,13 +32251,13 @@ __webpack_require__.r(__webpack_exports__);
 var ContactsBody = function ContactsBody() {
   return /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     id: "address"
-  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("address", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", null, "Start Bootstrap"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), "3481 Melrose Place", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), "Beverly Hills, CA 90210", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null)), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("address", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("abbr", {
-    title: "Phone"
-  }, "P:"), "(123) 456-7890", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("abbr", {
+  }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("address", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("strong", null, " \u041A\u043E\u0432\u043E\u0440\u043A\u0438\u043D\u0433 \u0418\u0437\u0438 "), " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), " \u0443\u043B.\u041C\u0430\u0448\u0438\u043D\u043E\u0441\u0442\u0440\u043E\u0438\u0442\u0435\u043B\u0435\u0439, 26 ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), " \u041C\u0438\u043D\u0441\u043A, 220118 ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null)), " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("address", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("abbr", {
+    title: "\u0442\u0435\u043B\u0435\u0444\u043E\u043D"
+  }, " \u0442\u0435\u043B\u0435\u0444\u043E\u043D: "), " + 375(17) 451 - 46 - 69 ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("br", null), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("abbr", {
     title: "Email"
-  }, "E:"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "mailto:#"
-  }, "name@example.com")));
+  }, " e - mail: "), " ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "mailto:info@cwork.ga"
+  }, " info @cwork.ga "), " "), " ");
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (ContactsBody);
@@ -32294,7 +32294,7 @@ var ContactsMail = function ContactsMail() {
     onClick: function onClick() {
       return inner();
     }
-  }));
+  }), " ");
 };
 
 var inner = function inner() {
