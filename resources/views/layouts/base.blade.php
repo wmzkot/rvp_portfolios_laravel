@@ -27,7 +27,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#">Коворкинг Изи {{$_SERVER['REQUEST_URI']}}</a>
+      <a class="navbar-brand" href="#">Коворкинг Изи {{--$_SERVER['REQUEST_URI']--}}</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -45,7 +45,7 @@
             <a class="nav-link" href="{{asset('portfolio')}}">Помещения/офисы</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="{{asset('contact')}}">Контакты</a>
+            <a class="nav-link" href="{{asset('contacts')}}">Контакты</a>
           </li>
 
           @guest
@@ -213,7 +213,7 @@
 @ENDIF
 
   <!-- Page Content -->
-  <div class="container">
+  <div class="container my-4">
 
     <div class="row">
       <div class="col">
@@ -230,7 +230,7 @@
 
 
 
-  <div id="contacts" class='mb-4'></div>
+  <div id="contacts" class='mb-4 mt-4'></div>
 
 
   <!-- /.container -->

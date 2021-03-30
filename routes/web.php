@@ -18,6 +18,10 @@ use Illuminate\Support\Facades\Auth;
 */
 Auth::routes();
 
+Route::view('/about', 'about');
+
+Route::view('/contacts', 'contacts');
+
 
 Route::post('/portfolio/add', [App\Http\Controllers\PortfolioController::class, 'postIndex'])->middleware('checkauth');
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

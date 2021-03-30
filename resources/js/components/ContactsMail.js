@@ -13,9 +13,10 @@ const ContactsMail = () => {
         input type = "submit"
         value = "Подписаться"
         onClick = {
-            () => inner() }
-        /> <
-        /div>
+            () => inner()
+        }
+        /> < /
+        div >
     );
 };
 
