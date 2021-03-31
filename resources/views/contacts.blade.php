@@ -24,14 +24,14 @@ crossorigin=""/>
             return false;
         }
         var data = [
-        {   lat: '53.8503585',
-            lng: '27.6615511',
-            popup: 'г.Минск, ул.Машиностроителей, 26'
+        {   lat: '53.904115',
+            lng: '27.516243',
+            popup: 'г.Минск, ул.Пинская, 26'
         },
 
         ];
 
-        var mymap = L.map('mapid').setView([53.8503585, 27.6615511], 14);
+        var mymap = L.map('mapid').setView([53.904115, 27.516243], 14);
                         L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
                           attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors',
                           maxZoom: 19
