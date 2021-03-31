@@ -17,7 +17,7 @@
   <link href="{{asset('css/business-frontpage.css')}}" rel="stylesheet">
   <link href="{{asset('css/bootstrap-icons.css')}}" rel="stylesheet">
   <link href="{{asset('css/custom.css')}}" rel="stylesheet">
-  <link rel="stylesheet" href="http://use.fontawesome.com/releases/v5.15.1/css/all.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
   @stack('styles')
 
 </head>
