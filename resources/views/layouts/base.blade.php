@@ -98,7 +98,7 @@
 
   <div class="container">
           <div class="row">
-            <div class="col-4">
+            <div class="col-md-4 col-sm-12">
 
               <div class="cmsmasters_text">
                 <h3 style="text-align: center;">Что мы можем предложить в новом коворкинге HUB#1?</h3>
@@ -122,7 +122,7 @@
               </div>
 
             </div>
-            <div class="col-4">
+            <div class="col-md-4 col-sm-12">
 
               <div class="cmsmasters_text">
                 <h3 style="text-align: center;">Коворкинг-центр для бизнеса и неформального общения</h3>
@@ -173,7 +173,7 @@
               </div>
             </div>
 
-            <div class="col-4">
+            <div class="col-md-4 col-sm-12">
 
               <div class="cmsmasters_text">
                 <h3 style="text-align: center;">Какие варианты есть для размещения в коворкинге?</h3>
@@ -202,43 +202,43 @@
     <div id="cmsmasters_hover_slider_6063845141a97" class="cmsmasters_hover_slider">
     
     <div id='slide' class='slide' style=''>
-        <img id='slide_img' width="100%" src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-006-860x480.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="">
+        <img id='slide_img' width="100%" src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-001-860x480.jpg" class="attachment-post-thumbnail size-post-thumbnail" alt="">
     </div>
   
     <ul class="thumbs">
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-001-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-002-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-003-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-004-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-005-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-006-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-007-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-008-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-009-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-010-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-011-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-012-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-013-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-014-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-015-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-016-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-017-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-018-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-019-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-020-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-021-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-022-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-023-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-024-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-025-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-026-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-027-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-028-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-029-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-030-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-036-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-037-860x480.jpg" alt="" width="100" height="60"></li>
-        <li class="shortcode_animated"><img src="http://coworking.by/wp-content/uploads/2020/09/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-038-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-001-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-002-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-003-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-004-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-005-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-006-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-007-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-008-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-009-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-010-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-011-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-012-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-013-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-014-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-015-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-016-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-017-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-018-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-019-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-020-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-021-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-022-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-023-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-024-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-025-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-026-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-027-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-028-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-029-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-030-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-036-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-037-860x480.jpg" alt="" width="100" height="60"></li>
+        <li class="shortcode_animated"><img src="/images/slider/снять-место-в-коворкинге-в-аренду-в-минске-на-месяц-038-860x480.jpg" alt="" width="100" height="60"></li>
     </ul>
 </div>
   </div>
