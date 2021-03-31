@@ -7,7 +7,7 @@ const ContactsBody = () => {
         address >
         <
         strong > Коворкинг Изи < /strong> <
-        br / > ул.Машиностроителей, 26 <
+        br / > ул.Пинская, 26 <
         br / > Минск, 220118 <
         br / >
         <
